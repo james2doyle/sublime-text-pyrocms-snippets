@@ -3,7 +3,7 @@
 <article class="markdown-body entry-content" itemprop="mainContentOfPage">
 
 <p>A <a href="http://www.sublimetext.com/">Sublime Text</a> package of <a href="https://github.com/pyrocms/pyrocms">PyroCMS</a> plugins snippets.</p>
-<p> Just hit the tab to trigger the target and expand its full code including bits of explanations from PyroCMS Documentation. You can navigate from one attribute to the next one by hitting tab too.</p> 
+<p> Just hit the tab to trigger the target and expand its full code including bits of explanations from PyroCMS Documentation. You can navigate from one attribute to the next one by hitting tab too.</p>
 <p>Ex: theme:css+tab will give:</p>
 <pre><code>{{ theme:css file="Name of the css file" type="The type attribute" title="The title attribute" media="The media attribute" rel="The rel attribute" }}
 </code></pre>
@@ -21,7 +21,7 @@
 <!--p>If you haven't got Package Control installed, you will need to make a clone of this repository into your packages folder, like so:</p-->
 <p>Clone this repository into your packages folder:</p>
 
-<pre><code>git clone https://github.com/Dixens/sublime-text-pyrocms-snippets.git pyrocms
+<pre><code>git clone https://github.com/james2doyle/sublime-text-pyrocms-snippets.git pyrocms
 </code></pre>
 
 
